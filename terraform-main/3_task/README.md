@@ -434,6 +434,3 @@ After terraform apply completes you can verify the resources on the AWS console.
 
 After the infrastructure is ready you can verify the output by navigating `http://DNS-of-Load-Balancer` you should see the below output.
 
-![Output](https://github.com/DhruvinSoni30/Terrafrom-ELB-ASG/blob/main/2.png)
-
-That’s it now, you have learned how to set up dynamic Auto Scaling Group and Load Balancer to distribute traffic to your instances in multiple Availability Zones. 

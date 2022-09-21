@@ -15,7 +15,7 @@ Read more about Terraform from [here](https://www.terraform.io/docs/index.html)
 
 In this tutorial, I will be going to create various resources like **VPC, EC2, SG,** etc & will manage **ASG & ELB** using terraform. So, let’s begin the fun.
 
-![Setup](https://github.com/DhruvinSoni30/Terrafrom-ELB-ASG/blob/main/1.png)
+
 
 
 > We will use separate file for creating all the resources & a separate file for variables also. At the end I will discuss about variable file.
